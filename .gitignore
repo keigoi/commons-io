@@ -14,6 +14,8 @@ site-content
 /.settings/
 
 ### Ignore IntelliJ files
-/.idea/
-*.iml
 /bin/
+
+/build/
+local.properties
+
